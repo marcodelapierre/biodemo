@@ -1,8 +1,6 @@
 [![travis](https://travis-ci.org/marcodelapierre/biodemo.svg?branch=master)](https://travis-ci.org/marcodelapierre/biodemo)
 
-# Author
-
-Marco De La Pierre
+[![codecov](https://codecov.io/github/marcodelapierre/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/marcodelapierre/biodemo)
 
 # Overview
 
